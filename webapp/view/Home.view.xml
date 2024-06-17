@@ -1,0 +1,73 @@
+<mvc:View
+    controllerName="com.chs.launchpad.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+>
+    <Page
+        id="page"
+        showHeader="false"
+    >
+        <content>
+            <f:ShellBar
+                id="shb"
+                title="Launchpad"
+                homeIcon="./logo.png"
+                showCopilot="false"
+                showSearch="false"
+                showNotifications="false"
+                notificationsNumber=""
+            >
+                <f:profile>
+                    <Avatar initials="NC" />
+                </f:profile>
+            </f:ShellBar>
+
+            <IconTabBar
+                id="idIconTabBarNoIcons"
+                expanded="{device>/isNoPhone}"
+                class="sapUiResponsiveContentPadding"
+            >
+                <items>
+                    <IconTabFilter
+                        id="it1"
+                        text="Transactional Applications"
+                        key="T"
+                        content="{/Transactional}"
+                    >
+                        <GenericTile
+                            class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
+                            header="{applicationName}"
+                            press="onPressTile(${url})"
+                        />
+                    </IconTabFilter>
+                    <IconTabFilter
+                        id="it2"
+                        text="Business User Applications"
+                        key="B"
+                        content="{/Business}"
+                    >
+                        <GenericTile
+                            class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
+                            header="{applicationName}"
+                            press="onPressTile(${url})"
+                        />
+                    </IconTabFilter>
+                    <IconTabFilter
+                        id="it3"
+                        text="Techincal Setting Applications"
+                        key="TS"
+                        content="{/Technical}"
+                    >
+                        <GenericTile
+                            class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
+                            header="{applicationName}"
+                            press="onPressTile(${url})"
+                        />
+                    </IconTabFilter>
+                </items>
+            </IconTabBar>
+        </content>
+    </Page>
+</mvc:View>
