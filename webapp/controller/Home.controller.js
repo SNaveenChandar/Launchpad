@@ -14,8 +14,8 @@ sap.ui.define([
                 },
                 { 
                     "applicationName": "Manual Adjustment", 
-                    "url": "" 
-                  }
+                    "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/21a8e028-a72d-4e85-8786-67dc65961a53.comsapchscom.comsapchscomzcomferegcompmadj-0.0.1" 
+                }
             ],
             "Technical": [
                 {
