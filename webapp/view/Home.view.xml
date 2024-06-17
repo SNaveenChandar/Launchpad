@@ -20,7 +20,7 @@
                 notificationsNumber=""
             >
                 <f:profile>
-                    <Avatar initials="NC" />
+                    
                 </f:profile>
             </f:ShellBar>
 
