@@ -10,11 +10,11 @@ sap.ui.define([
             "Transactional": [
                 { 
                   "applicationName": "Renewable Workplace", 
-                  "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/21a8e028-a72d-4e85-8786-67dc65961a53.comsapchscom.comsapchscomzcomcapregcomptranswrkplace-0.0.1" 
+                  "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/8d08cc6b-4ff7-445e-a527-bf1742cbca9a.comsapchscom.comsapchscomzcomferegulationcompliancerenewableworkplace-0.0.1" 
                 },
                 { 
                     "applicationName": "Manual Adjustment", 
-                    "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/21a8e028-a72d-4e85-8786-67dc65961a53.comsapchscom.comsapchscomzcomferegcompmadj-0.0.1" 
+                    "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/8d08cc6b-4ff7-445e-a527-bf1742cbca9a.comsapchscom.comsapchscomzcomferegcompmadj-0.0.1" 
                 }
             ],
             "Technical": [
