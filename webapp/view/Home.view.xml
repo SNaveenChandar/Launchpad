@@ -30,9 +30,9 @@
                 class="sapUiResponsiveContentPadding"
             >
                 <items>
-                    <IconTabFilter
-                        id="it1"
-                        text="Transactional Applications"
+                <IconTabFilter
+                        id="it30"
+                        text="Renewables Application"
                         key="T"
                         content="{/Transactional}"
                     >
@@ -42,10 +42,10 @@
                             press="onPressTile(${url})"
                         />
                     </IconTabFilter>
-                    <IconTabFilter
-                        id="it2"
-                        text="Business User Applications"
-                        key="B"
+                <IconTabFilter
+                        id="it3"
+                        text="Master Configuration – General"
+                        key="TS"
                         content="{/Business}"
                     >
                         <GenericTile
@@ -54,9 +54,22 @@
                             press="onPressTile(${url})"
                         />
                     </IconTabFilter>
+
                     <IconTabFilter
-                        id="it3"
-                        text="Techincal Setting Applications"
+                        id="it2"
+                        text="Renewable Master Configuration - RFS2 specific "
+                        key="TS"
+                        content="{/RFS2Specific}"
+                    >
+                        <GenericTile
+                            class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
+                            header="{applicationName}"
+                            press="onPressTile(${url})"
+                        />
+                    </IconTabFilter>
+                     <IconTabFilter
+                        id="it29"
+                        text="Renewable Technical Configuration"
                         key="TS"
                         content="{/Technical}"
                     >
@@ -66,6 +79,7 @@
                             press="onPressTile(${url})"
                         />
                     </IconTabFilter>
+                    
                 </items>
             </IconTabBar>
         </content>
