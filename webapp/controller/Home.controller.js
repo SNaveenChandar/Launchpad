@@ -15,15 +15,15 @@ sap.ui.define(
       "Transactional": [
         {
           "applicationName": "Renewable Workplace",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/b8484b35-8c4f-4d1a-9b44-51728c319a92.comsapchscomzcomfsrenwpl.zcomfsrenwpl-0.0.1/index.html",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/81177949-b9b3-476f-bd60-69a809044398.zfsrenewwrkplc.zfsrenewwrkplc-0.0.1",
         },
         {
           "applicationName": "Manual Adjustment",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/8d08cc6b-4ff7-445e-a527-bf1742cbca9a.comsapchscom.comsapchscomzcomferegcompmadj-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/21c4dfe8-a0d2-4536-ad86-e6c8f00d1920.zfsmanadjui.zfsmanadjui-0.0.1",
         },
         {
           "applicationName": "Log Utility",
-          "url": "https://CHSIncDev.launchpad.cfapps.us10.hana.ondemand.com/8a3eb9ae-d209-4624-8ac9-48a9ab963702.comsapchscomlogutilityservice.comsapchscomlogutilityservicezcomfelogutilityservice-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/1ace1d60-d8d6-42fc-af1b-bc2cc169e855.comchssapzcom_lgutilsrv.zfelgutilsrv-0.0.1",
         },
         {
           "applicationName": "Reconciliation Group",
