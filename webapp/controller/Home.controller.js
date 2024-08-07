@@ -15,11 +15,11 @@ sap.ui.define(
       "Transactional": [
         {
           "applicationName": "Renewable Workplace",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/81177949-b9b3-476f-bd60-69a809044398.zfsrenewwrkplc.zfsrenewwrkplc-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/7d3c0c05-7a9c-4dd6-b3b4-3198d795d26e.comchssapzcom_renewwrkplc.zfsrenewwrkplc-0.0.1",
         },
         {
           "applicationName": "Manual Adjustment",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/21c4dfe8-a0d2-4536-ad86-e6c8f00d1920.zfsmanadjui.zfsmanadjui-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/8ac03330-15f7-4dc6-bb0e-ea8e38d56504.comchssapzcom_manadjui.zfsmanadjui-0.0.1",
         },
         {
           "applicationName": "Log Utility",
@@ -27,11 +27,11 @@ sap.ui.define(
         },
         {
           "applicationName": "Reconciliation Group",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/7cff7a0b-6f81-49f4-ad94-c29501c3fc6e.zfsrecongrps.zfsrecongrps-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/94f13e64-f875-4ac6-8e39-549c3169dc6e.comchssapzcom_recongrps.zfsrecongrps-0.0.1",
         },
         {
           "applicationName": "BTP Event Staging",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/e121e4b6-6e04-42e1-96b6-2768ede21428.zcom_btpevtstg.comchssapzcombtpevtstgzfebtpevtstg-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/1f3d3aaf-f552-485d-8ca4-b00c22e6b78f.comchssapzcom_btpevtstg.zfebtpevtstg-0.0.1",
         },
       ],
       "Technical": [
@@ -112,7 +112,7 @@ sap.ui.define(
         },
         {
           "applicationName": "Maintain Adjustment Reason Code",
-          "url": "ttps://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/44210476-b17d-4922-8315-4bafb7a178fc.comchssapzcom_mtnadjrsncd.zfemtnadjrsncd-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/44210476-b17d-4922-8315-4bafb7a178fc.comchssapzcom_mtnadjrsncd.zfemtnadjrsncd-0.0.1",
         },
         {
           "applicationName": "Maintain Auto-match Date Tolerance",
