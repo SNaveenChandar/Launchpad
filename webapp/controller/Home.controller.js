@@ -18,6 +18,10 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/7d3c0c05-7a9c-4dd6-b3b4-3198d795d26e.comchssapzcom_renewwrkplc.zfsrenewwrkplc-0.0.1",
         },
         {
+          "applicationName": "Redesigned Renewable Workplace",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/f20ffafb-05ef-4a7f-9eb8-9248b9237821.poc.poc-0.0.1/index.html",
+        },
+        {
           "applicationName": "Manual Adjustment",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/8ac03330-15f7-4dc6-bb0e-ea8e38d56504.comchssapzcom_manadjui.zfsmanadjui-0.0.1",
         },
