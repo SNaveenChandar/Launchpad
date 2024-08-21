@@ -37,6 +37,10 @@ sap.ui.define(
           "applicationName": "BTP Event Staging",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/1f3d3aaf-f552-485d-8ca4-b00c22e6b78f.comchssapzcom_btpevtstg.zfebtpevtstg-0.0.1",
         },
+        {
+          "applicationName": "S/4HANA Event Staging ",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/e2168ac7-6c6d-4864-a64e-fd7b6a123376.comchssapzcom_s4evtstg.zfes4evtstg-0.0.1/index.html#/?sap-iapp-state--history=1&sap-iapp-state=4",
+        }
       ],
       "Technical": [
         {
