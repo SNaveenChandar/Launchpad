@@ -15,11 +15,7 @@ sap.ui.define(
       "Transactional": [
         {
           "applicationName": "Renewable Workplace",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/7d3c0c05-7a9c-4dd6-b3b4-3198d795d26e.comchssapzcom_renewwrkplc.zfsrenewwrkplc-0.0.1",
-        },
-        {
-          "applicationName": "Redesigned Renewable Workplace",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/f20ffafb-05ef-4a7f-9eb8-9248b9237821.poc.poc-0.0.1/index.html",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/38730c38-1d1d-4b1a-b77e-24b13d097267.zfsrenewwrkplc.zfsrenewwrkplc-0.0.1/index.html",
         },
         {
           "applicationName": "Manual Adjustment",
