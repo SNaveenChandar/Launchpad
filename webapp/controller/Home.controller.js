@@ -120,11 +120,11 @@ sap.ui.define(
         },
         {
           "applicationName": "Maintain Auto-match Date Tolerance",
-          "url": " https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/257f3aee-fcca-46bb-896f-df89d78adcd6.comchssapzcom_mtnregtol4dtmtch.zfemtnregtol4dtmtch-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/f0ec65fb-229c-4038-8279-5c04aea0d5d8.comchssapzcom_mtnregtol4dtmtch.zfemtnregtol4dtmtch-0.0.1/index.html",
         },
         {
           "applicationName": "Maintain Auto-match Volume Tolerance",
-          "url": " https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/80062591-0c3c-4272-a622-b05a7276bd7d.comchssapzcom_mtnregtol4volmtch.zfemtnregtol4volmtch-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/b0e38d79-ed98-4c0c-8de1-9344d3c1a0cb.comchssapzcom_mtnregtol4volmtch.zfemtnregtol4volmtch-0.0.1/index.html"
         },
       ]
     };
