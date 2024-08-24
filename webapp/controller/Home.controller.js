@@ -36,6 +36,10 @@ sap.ui.define(
         {
           "applicationName": "S/4HANA Event Staging ",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/e2168ac7-6c6d-4864-a64e-fd7b6a123376.comchssapzcom_s4evtstg.zfes4evtstg-0.0.1/index.html#/?sap-iapp-state--history=1&sap-iapp-state=4",
+        },
+        {
+          "applicationName": "EMTS Event Staging ",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/040bac45-8ab0-46e3-b8a7-989af314e2ab.comchssapzcom_emtsstg.zfeemtsstg-0.0.1",
         }
       ],
       "Technical": [
@@ -87,7 +91,7 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/303b1d89-7f70-4b1b-829c-56e09e419a5b.comchssapzcom_mtnregmatgrp.zfemtnregmatgrp-0.0.1",
         },
         {
-          "applicationName": "Maintain Sub-Scenario Movement Type Relevancy",
+          "applicationName": "Maintain Sub-Scenario Regulation Movement Type",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/6e9f517a-0980-446d-9bdf-6f0532bd4520.comchssapzcom_mtnsbscnmvttyprev.zfemtnsbscnmvttyprev-0.0.1",
         },
         {
