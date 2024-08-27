@@ -27,7 +27,7 @@ sap.ui.define(
         },
         {
           "applicationName": "Reconciliation Group",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/94f13e64-f875-4ac6-8e39-549c3169dc6e.comchssapzcom_recongrps.zfsrecongrps-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/94f13e64-f875-4ac6-8e39-549c3169dc6e.comchssapzcom_recongrps.zfsrecongrps-0.0.1/index.html",
         },
         {
           "applicationName": "BTP Event Staging",
