@@ -9,7 +9,7 @@ sap.ui.define(
       "RFS2Specific": [
         {
           "applicationName": "Maintain RFS2 Materials",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/9b7a4fa5-f635-4bae-aeee-2ddc80da1503.comchssapzcom_mtnrfs2regmat.zfemtnrfs2regmat-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/d1031bf2-1fa5-4085-9b77-19dbce730108.comchssapzcom_mtnrfs2regmat.zfemtnrfs2regmat-0.0.1",
         },
       ],
       "Transactional": [
