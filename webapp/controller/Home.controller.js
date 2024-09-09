@@ -130,6 +130,15 @@ sap.ui.define(
           "applicationName": "Maintain Auto-match Volume Tolerance",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/b0e38d79-ed98-4c0c-8de1-9344d3c1a0cb.comchssapzcom_mtnregtol4volmtch.zfemtnregtol4volmtch-0.0.1/index.html"
         },
+        {
+          "applicationName": "Maintain Inventory Cost Center",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/d19c5a13-d5f7-42fc-8f6f-5aa1ec956ce0.comchssapzcom_mtninvcostc.zfemtninvcostc-0.0.1"
+        },
+        {
+          "applicationName": "Maintain Sales Configuration",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/370f7720-3219-454f-860a-c0ea1f65ceb5.comchssapzcom_mtnsalecnfg.zfemtnsalecnfg-0.0.1"
+        },
+        
       ]
     };
     return Controller.extend("com.chs.launchpad.controller.Home", {
