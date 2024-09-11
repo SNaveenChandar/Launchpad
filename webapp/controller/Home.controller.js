@@ -91,6 +91,10 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/303b1d89-7f70-4b1b-829c-56e09e419a5b.comchssapzcom_mtnregmatgrp.zfemtnregmatgrp-0.0.1",
         },
         {
+          "applicationName": "Maintain Movement Type Relevancy",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/ebe19000-43b7-4392-ba2a-f6d43fca9a4b.comchssapzcom_mtnmvttyprel.zfemtnmvttyprel-0.0.1",
+        },
+        {
           "applicationName": "Maintain Sub-Scenario Regulation Movement Type",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/6e9f517a-0980-446d-9bdf-6f0532bd4520.comchssapzcom_mtnsbscnmvttyprev.zfemtnsbscnmvttyprev-0.0.1",
         },
@@ -127,8 +131,12 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/f0ec65fb-229c-4038-8279-5c04aea0d5d8.comchssapzcom_mtnregtol4dtmtch.zfemtnregtol4dtmtch-0.0.1/index.html",
         },
         {
-          "applicationName": "Maintain Auto-match Volume Tolerance",
+          "applicationName": "Maintain Auto-Match Quantity Tolerance",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/b0e38d79-ed98-4c0c-8de1-9344d3c1a0cb.comchssapzcom_mtnregtol4volmtch.zfemtnregtol4volmtch-0.0.1/index.html"
+        },
+        {
+          "applicationName": "Maintain Plant EPA ID Mapping",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/75114d89-0e86-4be9-b6bd-86a9ff202605.comchssapzcom_mtnpltepaidmap.zfemtnpltepaidmap-0.0.1",
         },
         {
           "applicationName": "Maintain Inventory Cost Center",
