@@ -11,6 +11,10 @@ sap.ui.define(
           "applicationName": "Maintain RFS2 Materials",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/d1031bf2-1fa5-4085-9b77-19dbce730108.comchssapzcom_mtnrfs2regmat.zfemtnrfs2regmat-0.0.1",
         },
+        {
+          "applicationName": "Maintain RVO Type To RIN Type Mapping",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/82ac4c72-de64-466d-89a9-990e8fd516d3.comchssapzcom_mtnrvotyprintypmp.zfemtnrvotyprintypmp-0.0.1",
+        },
       ],
       "Transactional": [
         {
