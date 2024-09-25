@@ -44,7 +44,11 @@ sap.ui.define(
         {
           "applicationName": "EMTS Event Staging ",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/040bac45-8ab0-46e3-b8a7-989af314e2ab.comchssapzcom_emtsstg.zfeemtsstg-0.0.1",
-        }
+        },
+        {
+          "applicationName": "EMTS Trade Test Tool",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/22b4ddb5-2484-497a-bb42-10b1f57bd7b9.zfsemtstradetesttool.zfsemtstradetesttool-0.0.1",
+        },
       ],
       "Technical": [
         {
