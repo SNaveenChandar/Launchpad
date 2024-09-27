@@ -50,7 +50,7 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/0763836f-770c-4949-bd0b-bd4de6c9a578.comchssapzcom_emtstradetesttool.zfsemtstradetesttool-0.0.1",
         },
         {
-          "applicationName": "RVO Obligation Report",
+          "applicationName": "RVO Cost Calculation",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/fc8064ba-cced-4978-a207-b0ff71fa35cc.zfsrvoreport.zfsrvoreport-0.0.1/index.html",
         }
       ],
