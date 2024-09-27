@@ -47,7 +47,7 @@ sap.ui.define(
         },
         {
           "applicationName": "EMTS Trade Test Tool",
-          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/22b4ddb5-2484-497a-bb42-10b1f57bd7b9.zfsemtstradetesttool.zfsemtstradetesttool-0.0.1",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/0763836f-770c-4949-bd0b-bd4de6c9a578.comchssapzcom_emtstradetesttool.zfsemtstradetesttool-0.0.1",
         },
         {
           "applicationName": "RVO Obligation Report",
