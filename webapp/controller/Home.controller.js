@@ -16,7 +16,7 @@ sap.ui.define(
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/82ac4c72-de64-466d-89a9-990e8fd516d3.comchssapzcom_mtnrvotyprintypmp.zfemtnrvotyprintypmp-0.0.1",
         },
         {
-          "applicationName": "Auto Match Configuration",
+          "applicationName": "Maintain Auto Match Configuration",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/0760753d-98bd-4ddc-b294-0887a9528738.comchssapzcom_mtnatmtchconfg.zfemtnatmtchconfg-0.0.1/index.html",
         },
       ],
