@@ -56,6 +56,10 @@ sap.ui.define(
         {
           "applicationName": "RVO Cost Calculation",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/fc8064ba-cced-4978-a207-b0ff71fa35cc.zfsrvoreport.zfsrvoreport-0.0.1/index.html",
+        },
+        {
+          "applicationName": "SAC Report",
+          "url": "https://chsinc-d.us10.hcs.cloud.sap/sap/fpa/ui/tenants/664a5/bo/story/FDE93B829E6C4D0045DA219E0C45A154",
         }
       ],
       "Technical": [
