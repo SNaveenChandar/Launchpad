@@ -166,7 +166,10 @@ sap.ui.define(
           "applicationName": "Maintain Sales Configuration",
           "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/370f7720-3219-454f-860a-c0ea1f65ceb5.comchssapzcom_mtnsalecnfg.zfemtnsalecnfg-0.0.1"
         },
-        
+        {
+          "applicationName": "Maintain Notification Configuration",
+          "url": "https://chsincdev.launchpad.cfapps.us10.hana.ondemand.com/35314cbf-b24b-48e0-bbd9-8d440c296cb8.comchssapzcom_mtntconfg.zfemtntconfg-0.0.1"
+        },
       ]
     };
     return Controller.extend("com.chs.launchpad.controller.Home", {
